@@ -9,7 +9,7 @@ This work aims to harness the power of machine learning classification methods t
 
 The chief goal of this project is to leverage machine learning methodologies to construct a solid fraud detection framework for Fastag transactions. By analyzing key parameters such as transaction details, vehicle data, location, and transaction amounts, the system aspires to accurately detect fraudulent activities, thereby safeguarding the integrity and security of Fastag transactions.
 # Pre-requisites:
-1.Good Knowledge about Google Colab NoteBook
-2.Python 3v
+## 1.Good Knowledge about Google Colab NoteBook
+## 2.Python 3v
 3.import necessary packages
 4.streamlit
