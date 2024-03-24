@@ -20,4 +20,5 @@ The chief goal of this project is to leverage machine learning methodologies to 
 • Built a Machine Learning Model tailored for Decoding FASTag Fraud .
 • Developed a backend infrastructure to seamlessly integrate the model, establishing a connection to the frontend via Streamlit architecture.
 • The application was deployed and hosted using Streamlit Community Cloud for enhanced accessibility.
-# Skills: Artificial Neural Networks · Data Analysis · Software Deployment · Data Visualization · Python (Programming Language) · Machine Learning
+# Skills:
+    Artificial Neural Networks · Data Analysis · Software Deployment · Data Visualization · Python (Programming Language) · Machine Learning
