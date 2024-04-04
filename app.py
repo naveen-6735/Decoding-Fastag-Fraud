@@ -4,7 +4,7 @@ import streamlit as st
 import joblib
 
 # Load the model
-model = joblib.load('Fastag_Fraud_Detection_Model')
+model = joblib.load('Decoding-Fastag-Fraud_Model')
 st.image("2.jpg")
 # Streamlit app
 st.title('Decoding Fastag Fraud')
